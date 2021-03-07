@@ -1,0 +1,7 @@
+# BoltNetworkSample
+Boltを使ったNetwork通信のサンプルプロジェクトです
+
+まずはPackageManagerからBoltをインストールしてセットアップしてください
+
+Qiitaに解説を書いているので、こちらをごらんください
+https://qiita.com/YamadaGames/items/01de0c7570d86d2fbdb0
