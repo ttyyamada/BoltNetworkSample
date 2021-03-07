@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+BoltNetworkSample/Assets/Install Bolt/*
+BoltNetworkSample/Assets/Ludiq/*
+BoltNetworkSample/Library/*
+BoltNetworkSample/Temp/*
